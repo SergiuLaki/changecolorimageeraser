@@ -29,7 +29,7 @@
      // On color pick click, change image to second place
      colorPicker.on('click', colorPickerCall);
  
-     // Change image to second place, change styles for color Picker
+     // Change image to second place, change styles for color Picker (test)
      function colorPickerCall() {
          images = $('.image');
          
