@@ -35,3 +35,5 @@ https://sergiulaki.github.io/changecolorimageeraser/
       <button class="resetEraser">Reset Eraser</button>
   </div>
 ```
+
+Created by @sergiulaki
